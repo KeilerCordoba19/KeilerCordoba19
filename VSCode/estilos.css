@@ -1,0 +1,71 @@
+h3{
+    color: aquamarine;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    text-align:justify;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color:rgb(48, 48, 161);
+    
+}
+h3{
+    color: blue;
+}
+head{
+    color: aqua;
+}
+ol{
+    color:rgb(48, 48, 161);
+    
+}
+
+img{
+    border-radius: 100px;
+    width: 200px;
+}
+h3{
+    color:#fe96a7;
+}
+.ventana{
+background-color: #e6a8ff92;
+width: 140vh;
+
+}
+p{
+    color: rgb(48, 48, 161);
+}
+ul{
+    color: rgb(48, 48, 161);
+}
+h1{
+    color:#A743DE;
+}
+body{
+    display: flex;
+    justify-content: center;
+
+}
+.negra{
+    background-color:darkmagenta;
+    
+}
+.img img:hover{
+    overflow: hidden;
+    transform: scale(1.3);
+}
+
